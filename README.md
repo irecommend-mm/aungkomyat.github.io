@@ -27,12 +27,13 @@ Bolt.new + Supabase. Emergency chatbot with user auth, report system & multiling
 Voice translator, grammar checker, OCR, dictionary—all in one AI app.
 
 ### [Astrology AI](https://astroloai.netlify.app/)
-Birth chart, palm reading, and tarot readings powered by AI.
+Birth chart, palm reading, compatibility analysis and tarot readings powered by AI.
 
 ### [Personal Coach AI](https://personal-coach.netlify.app/)
 Smart coaching assistant with personal development goals.
 
 ### [Voice Translator](https://mmtranslate.netlify.app/)
+### [Voice Translator] (https://mm-translate--mm-talk-rmvie.asia-east1.hosted.app/)
 Multilingual voice-to-text translator hosted on Firebase.
 
 ---
