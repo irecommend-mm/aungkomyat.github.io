@@ -14,7 +14,7 @@ Creative, Innovative and AI-assisted developer passionate about building fast, c
 
 ## 🛠 Skills
 
-flutter | Firebase | JavaScript | React | Vue.js | Tailwind CSS | Next.js | Supabase | Bolt.new | OCR | AI Prompting | Git | Netlify | Vercel
+flutter | Firebase | JavaScript | React | Vue.js | Tailwind CSS | Next.js | Supabase | AI Tools | OCR | AI Prompting | Git | Netlify | ExpoGo | GitHub | 
 
 ---
 
