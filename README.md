@@ -8,13 +8,13 @@
 
 ## 💡 About Me
 
-Creative and AI-assisted developer passionate about building fast, clean, and intelligent web apps using modern tools like Bolt.new, Firebase, and Supabase.
+Creative, Innovative and AI-assisted developer passionate about building fast, clean, and intelligent web apps using modern tools like Bolt.new, Firebase Studio, and Supabase. 
 
 ---
 
 ## 🛠 Skills
 
-JavaScript | React | Vue.js | Tailwind CSS | Firebase | Supabase | Bolt.new | OCR | AI Prompting | Git | Netlify | Vercel
+flutter | Firebase | JavaScript | React | Vue.js | Tailwind CSS | Next.js | Supabase | Bolt.new | OCR | AI Prompting | Git | Netlify | Vercel
 
 ---
 
