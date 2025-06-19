@@ -40,7 +40,9 @@ Smart coaching assistant with personal development goals.
 Multilingual voice-to-text translator hosted on Firebase.
 
 
-### Ecommerce Prototype Apps
+
+
+### ( Ecommerce Prototype Apps )
 
 ### City Guide web app 
 https://cityguide-mm.netlify.app 
@@ -49,7 +51,7 @@ https://cityguide-mm.netlify.app
 https://bizreview-your-local-business-companion.rork.app/
 
 
-### Mindfulness & Others Prototypes Apps
+### ( Mindfulness & Others Prototypes Apps )
 
 ### Mindful Moments App 
 https://mindful-moments-app-pv5dhqj.rork.app/
