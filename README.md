@@ -29,12 +29,37 @@ Voice translator, grammar checker, OCR, dictionary—all in one AI app.
 ### [Astrology AI](https://astroloai.netlify.app/)
 Birth chart, palm reading, compatibility analysis and tarot readings powered by AI.
 
+### Celestial Compass AI
+https://celestial-compass.netlify.app
+
 ### [Personal Coach AI](https://personal-coach.netlify.app/)
 Smart coaching assistant with personal development goals.
 
 ### [Voice Translator](https://mmtranslate.netlify.app/)
 ### [Voice Translator] (https://mm-translate--mm-talk-rmvie.asia-east1.hosted.app/)
 Multilingual voice-to-text translator hosted on Firebase.
+
+
+### Ecommerce Prototype Apps
+
+### City Guide web app 
+https://cityguide-mm.netlify.app 
+
+### BizReview: Your Local Business Reviews
+https://bizreview-your-local-business-companion.rork.app/
+
+
+### Mindfulness & Others Prototypes Apps
+
+### Mindful Moments App 
+https://mindful-moments-app-pv5dhqj.rork.app/
+
+### MindWell: Serene Mindfulness App
+https://mindwell-serene-mindfulness-app.rork.app/
+
+### My Celestial Insights
+https://my-celestial-insights.rork.app/
+
 
 ---
 
