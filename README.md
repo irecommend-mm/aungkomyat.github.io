@@ -1,85 +1,107 @@
 
 # 👋 Aung Ko Myat
 
-**Frontend Developer | AI-Assisted Coder | Myanmar 🇲🇲**  
-📧 a.komyat@gmail.com | 📍 Yangon | 📱 +95 9450055821  
+**Creative Technologist | Frontend Developer | AI-Assisted Coder**  
+📍 Yangon, Myanmar · 📱 +95 9450055821 · 📧 a.komyat@gmail.com  
+🌐 [GitHub](https://github.com/aungkomyat) · [Portfolio](https://yourportfolio.link) · [LinkedIn](https://linkedin.com/in/yourprofile)
 
 ---
 
-## 💡 About Me
+## 💡 Summary
 
-Creative, Innovative and AI-assisted developer passionate about building fast, clean, and intelligent web apps using modern tools like Bolt.new, Firebase Studio, and Supabase. 
-
----
-
-## 🛠 Skills
-
-flutter | Firebase | JavaScript | React | Vue.js | Tailwind CSS | Next.js | Supabase | AI Tools | OCR | AI Prompting | Git | Netlify | ExpoGo | GitHub | 
+Creative and forward-thinking developer with a passion for building intelligent, fast, and user-friendly web & mobile apps. Specializing in AI-integrated tools, rapid prototyping, and community-focused digital solutions. Shipped multiple apps to the Play Store and web—bringing together innovation, design, and utility.
 
 ---
 
-## 🚀 Projects
+## 🛠 Tech Stack
 
-### [Community Emergency Response App](https://helpmyanmar.online/)
-Bolt.new + Supabase. Emergency chatbot with user auth, report system & multilingual UI.
+**Frontend / Mobile**  
+Flutter · React · Next.js · Vue.js · JavaScript · Tailwind CSS · HTML/CSS
 
-### [MM Assistant](https://mmassistant.netlify.app/)
-Voice translator, grammar checker, OCR, dictionary—all in one AI app.
+**Backend & Cloud**  
+Firebase · Supabase · Node.js · Express.js
 
-### [Astrology AI](https://astroloai.netlify.app/)
-Birth chart, palm reading, compatibility analysis and tarot readings powered by AI.
+**AI & Smart Tools**  
+Prompt Engineering · Gemini API · Firebase ML Kit · OCR · Voice Recognition
 
-### Celestial Compass AI
-https://celestial-compass.netlify.app
+**Dev & Platforms**  
+Git · GitHub · Vercel · Netlify · Docker · Postman
 
-### [Personal Coach AI](https://personal-coach.netlify.app/)
-Smart coaching assistant with personal development goals.
+---
 
-### [Voice Translator](https://mmtranslate.netlify.app/)
-### [Voice Translator] (https://mm-translate--mm-talk-rmvie.asia-east1.hosted.app/)
-Multilingual voice-to-text translator hosted on Firebase.
+## 🚀 Featured Projects
 
+### [🆘 Help Myanmar](https://helpmyanmar.online/)  
+AI-powered emergency chatbot platform with multilingual UI and report submission.  
+**Tech:** Bolt.new · React · Supabase
 
+### [🧠 MM Assistant](https://mmassistant.netlify.app/)  
+Productivity suite: OCR, voice translator, grammar checker & dictionary.  
+**Tech:** React · Firebase · AI APIs
 
+### [🔮 Astrology AI](https://astroloai.netlify.app/)  
+AI palm reader, astrology birth chart & tarot advisor.  
+**Tech:** Firebase · Gemini API · Next.js
 
-### ( Ecommerce Prototype Apps )
+### [🧭 Celestial Compass](https://celestial-compass.netlify.app)  
+AI decision-making tool based on astrological patterns.
 
-### City Guide web app 
-https://cityguide-mm.netlify.app 
+### [🎯 GoalAI (Prototype)](https://your-goalai-link.com)  
+AI-based goal planner with daily insights and reminders.  
+**Tech:** Firebase · Next.js · Supabase · Gemini API
 
-### BizReview: Your Local Business Reviews
-https://bizreview-your-local-business-companion.rork.app/
-
-
-### ( Mindfulness & Others Prototypes Apps )
-
-### Mindful Moments App 
-https://mindful-moments-app-pv5dhqj.rork.app/
-
-### MindWell: Serene Mindfulness App
-https://mindwell-serene-mindfulness-app.rork.app/
-
-### My Celestial Insights
-https://my-celestial-insights.rork.app/
-
+### [❤️ LoveConnect (Prototype)](https://your-loveconnect-link.com)  
+Modern dating app inspired by Bumble, with gender filter & smart match.
 
 ---
 
 ## 📱 Published Apps
 
-- [ClipDate: Reel Social Dating](https://play.google.com/store/apps/details?id=clipdate.me)  
-- [AI Baydin: Pocket Astrologer](https://play.google.com/store/apps/details?id=aibaydin.app)  
-- [iRecommend](https://play.google.com/store/apps/details?id=com.irecommend.app)  
-[Play Store Developer Profile »](https://play.google.com/store/apps/dev?id=6960987869456668635&hl=en_SG)
+- [📲 AI Baydin – Pocket Astrologer](https://play.google.com/store/apps/details?id=aibaydin.app)  
+- [📲 ClipDate – Reel Social Dating](https://play.google.com/store/apps/details?id=clipdate.me)  
+- [📲 iRecommend – Local Discovery App](https://play.google.com/store/apps/details?id=com.irecommend.app) *(under backend maintenance)*  
+🔗 [View Developer Profile →](https://play.google.com/store/apps/dev?id=6960987869456668635&hl=en_SG)
+
+---
+
+## 🧪 Prototype Web Apps
+
+- [🌆 CityGuide](https://cityguide-mm.netlify.app) – Discover places & businesses  
+- [🗣 Voice Translator](https://mmtranslate.netlify.app) | [Alt Link](https://mm-translate--mm-talk-rmvie.asia-east1.hosted.app)  
+- [💬 BizReview](https://bizreview-your-local-business-companion.rork.app) – Local business review platform  
+- [🧘‍♀️ MindWell](https://mindwell-serene-mindfulness-app.rork.app) · [🕯️ Mindful Moments](https://mindful-moments-app-pv5dhqj.rork.app)  
+- [🔭 My Celestial Insights](https://my-celestial-insights.rork.app)
+
+---
+
+## 💼 Experience
+
+**Freelance Flutter & Web Developer**  
+_March 2020 – Present | Remote_  
+- Delivered cross-platform apps from design to deployment  
+- Integrated cutting-edge AI tools like Gemini & Firebase ML  
+- Developed scalable backends with Firebase/Supabase  
+- Released apps like AI Baydin, ClipDate, iRecommend
+
+**Licensed Tour Guide**  
+_Adventure Myanmar Tours, 2000 – 2020 | Yangon_  
+- Provided personalized cultural tours for international clients  
+- Strong interpersonal communication—now applied to user-first design
 
 ---
 
 ## 🎓 Education
 
-**Bachelor in English**
+**Bachelor of Arts in English**  
+University of Yangon, Myanmar
 
 ---
 
-## 📄 Resume
+## 🌱 Interests
 
-[Download Resume (PDF)](Aung_Ko_Myat_Resume.pdf)
+AI Automation · Mindfulness Tech · Creative Coding · UX for Social Impact · Language Tools for Myanmar
+
+---
+
+> 📄 [Download My Resume (PDF)](Aung_Ko_Myat_Resume.pdf)
+
